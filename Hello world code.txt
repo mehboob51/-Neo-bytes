@@ -1,19 +1,19 @@
  
-  1. nano hello.sh
+   nano hello.sh
  
-  2. #!/bin/bash
-     echo "Hello World"
+   #!/bin/bash
+   echo "Hello World"
  
-   3.chmod +x hello.sh
+   chmod +x hello.sh
   
-   4. ./hello.sh
+   ./hello.sh
    
    OR
-   5. sh hello.sh
+    sh hello.sh
    
    OR
-   6. bash hello.sh
+   bash hello.sh
 
-  Output is
+   Output is
 
-  Hello World.
+   Hello World.
